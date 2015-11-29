@@ -202,7 +202,7 @@ class Assessment(models.Model):
         max_length=40, blank=False,
         null=False)
 
-    # For logs
+    # For logs details
     createdon = models.DateTimeField(verbose_name="created Date",
                                      auto_now_add=True)
     updatedon = models.DateTimeField(verbose_name="Updated Date",
