@@ -8,7 +8,7 @@ class StudentAdmin(ImportExportMixin, admin.ModelAdmin):
     pass
 
 
-# Register your models here.
+# Register your models here - students 
 admin.site.register(Student, StudentAdmin)
 admin.site.register(Company)
 admin.site.register(Timings)
