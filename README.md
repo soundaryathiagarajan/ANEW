@@ -19,7 +19,7 @@ Solution
 ========
 By using this tool, we provide placement opportunities matching the candidates aptitude along with technical skills, thereby improving the payscale as well as placement sustainability of the candidate. 
 
-We will be providing a web portal where the trainers will be providing a raw input which contains the trainee(s) performance details which will be graphically represented for visual analysis and thereby addressing the issues accordingly. 
+We will be providing a web portal where the trainers will be providing a raw input which contains the trainee(s) performance details which will be graphically represented for visual analysis and thereby addressing the issues accordingly.. 
 
 Install needed libraries
 --------------------------------------
